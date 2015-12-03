@@ -1,0 +1,21 @@
+{
+        "name": "adventofcode",
+        "description": "",
+        "version": "0.0.1",
+        "main": "./adventofcode.js",
+        "author": {
+            "name": "Mirco Babini",
+            "email": "mirkolofio@gmail.com"
+        },
+        "keywords": [],
+        "licenses": {
+            "type": "gpl20"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git://github.com/YOUR_LOGIN/adventofcode.git"
+        },
+        "bugs": {
+            "url": "http://github.com/YOUR_LOGIN/adventofcode/issues"
+        }
+    }
