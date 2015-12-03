@@ -1,6 +1,6 @@
 adventofcode
 ==============
 
-This is adventofcode.
+my adventure on adventofcode.com
 
 
