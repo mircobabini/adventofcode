@@ -6,7 +6,7 @@ fs.readFile('input.txt', 'utf-8', function (err, row) {
     // first house, first present
     presents_in_house['0,0'] = 1;
 
-    for( var char_index in row ){
+    for(var char_index in row){
         var char = row[char_index];
         switch( char ){
             case '^':
