@@ -1,7 +1,7 @@
 var fs = require('fs');
 fs.readFile('input.txt', 'utf-8', function (err, string) {
     // normalize carriage-return for cross-platform compatibility
-    string.replace(/[\n\r]/g, '\n');
+    string.replace(/[\n\r]/g, "\n");
     var rows = string.split("\n");
 
     var row, row_index;
